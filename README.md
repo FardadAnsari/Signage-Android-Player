@@ -60,4 +60,4 @@
 </div>
 
 ### **دانلود**
-[![دانلود](readme/image/apk.png)](https://github.com/FardadAnsari/Signage-Android-Player/blob/main/readme/apk/app-1.0.0.apk)
+[![دانلود](readme/image/apk.png)](readme/apk/app-1.0.0.apk)
